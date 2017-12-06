@@ -7,7 +7,7 @@
 
 import Foundation
 import UIKit
-import MBProgressHUD
+import MBProgressHUD // pod 'MBProgressHUD', '~> 1.0.0'
 
 extension UIView {
     func showHUD() {
