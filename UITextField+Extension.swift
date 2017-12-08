@@ -1,5 +1,5 @@
 //
-//  Utilities.swift
+//  SwiftBox
 //
 //  Created by Celil Bozkurt on 05.12.2017.
 //  Copyright © 2017 Celil Bozkurt. All rights reserved.
